@@ -1,3 +1,7 @@
+package java.ChainOfResposability;
+
+import java.model.Budget;
+
 public class CalculateDiscountByBudget implements Discount {
 
     private Discount next;

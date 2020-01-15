@@ -1,3 +1,7 @@
+package java.ChainOfResposability;
+
+import java.model.Budget;
+
 public class NoDiscount implements Discount {
     @Override
     public double discount(Budget budget) {

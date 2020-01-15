@@ -1,4 +1,8 @@
+package java.Strategy;
+
 import org.jetbrains.annotations.NotNull;
+
+import java.model.Budget;
 
 public class CalculateBudget {
 
